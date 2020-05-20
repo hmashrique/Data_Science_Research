@@ -23,6 +23,7 @@
 
 ### Handling Big data is an issue
 - notebooks cant handle big data loads, causing sudden crashes.
+- Unable to track/show progress on model generations.
 
 ### version control
 - “because all the outputs are saved within the notebook, there’s a lot of state that’s bundled in the file. 
@@ -32,5 +33,17 @@
 - To collaborate, all the users need to have the same environment setup and access to database.
 - There are issues with extensions used in different users because of versions.
 - reusing notebooks also causes issues because of dependency issues with the notebook.
+
+## Design opportunities
+ ### Code refarctoring
+  - coding assistance such as auto complete, API support within the notebook env
+ ### Production Deployment 
+  - mitigating dependencies while deploying in the production servers
+ ### History 
+  - managing notebook execution order to easily understand the flow of the code cell executions
+ ### Working with Big datasets.
+
+
+
 
 
