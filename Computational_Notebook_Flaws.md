@@ -1,5 +1,5 @@
 
-**Whats wrong with Computational Notebooks (Austin's Paper)**
+# Whats wrong with Computational Notebooks (Austin's Paper) 
 
 [Paper Link](http://web.eecs.utk.edu/~azh/pubs/Chattopadhyay2020CHI_NotebookPainpoints.pdf)
 
