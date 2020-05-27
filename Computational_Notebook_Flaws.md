@@ -100,7 +100,7 @@ data science?"
 [paper link](https://faculty.washington.edu/ajko/papers/Ko2004LearningBarriers.pdf)
 
 ### TASK:
-- 5 task given, mostly included working with forms, fixing forms, make a clock, design an interface in VB 3.
+- 5 task given to non professional programmers, mostly included working with forms, fixing forms, make a clock, design an interface in VB 3.
 
 ### Points
 - among the barriers, most of them were user barriers where users didnt know how to use the system and made false assumptions.
