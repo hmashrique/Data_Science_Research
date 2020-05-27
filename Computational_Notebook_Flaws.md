@@ -42,6 +42,80 @@
  ### History 
   - managing notebook execution order to easily understand the flow of the code cell executions
  ### Working with Big datasets.
+ 
+ 
+# Teaching data science to non CS people.... by pratitioners 
+
+[Paper Link](https://seankross.com/chi-2019/kross-guo-chi-2019.pdf)
+
+### Methodolgy
+- interview of 20 data scientists(practitioners).
+- semi-structured.
+- focused on material taught in their courses.
+- student experiences and challenges faced.
+
+### Interview about
+- course content
+- language used
+- tecnological challenges faced
+- overall settings 
+- where do students struggle.
+
+Collected data arranged into common themes by inductive analysis.
+
+### Interview points
+Practitioners vary from different diverse fields.(not from CS)
+- no student feeback or their point of view.
+- students took the courses for job needs rather than learning .
+- most of them wanted to learn specific tools for their job requirement.
+
+- "instructors emphasized workflows that centered on
+the integration of code, data, and communication rather than
+on the more algorithmic foundations of computing."
+
+- instructors didnt teach basic programming concepts like
+for loop , array , linked list, recursion or basic data structures.
+
+-focused mainly on tabular dataframes and manipulating them with function calls (sorting, filtering , rearranging, addding columns)
+
+-focused more time on data management skills .
+
+- taught explanatory texts alongside running code for better understanding of data (using Jupyter)
+
+- also taught github to organize projects/create portfolio 
+
+### MAIN CHALLENGES FACED:
+- Environment setup
+- Uncertainty of not knowing everything
+- finding appropriate dataset.
+
+"How can we design better tools for teaching
+data science?"
+
+
+**********************************************************************************************
+
+
+## Learning barriers for end user programming :
+[paper link] (https://faculty.washington.edu/ajko/papers/Ko2004LearningBarriers.pdf)
+
+### TASK:
+- 5 task given, mostly included working with forms, fixing forms, make a clock, design an interface in VB 3.
+
+### Points
+- among the barriers, most of them were user barriers where users didnt know how to use the system and made false assumptions.
+- some had problem understanding the error messages .
+
+- the problems corresponds to form design in VB application.. will be different for other systems as they have different interface.
+
+
+
+
+
+
+
+
+
 
 
 
