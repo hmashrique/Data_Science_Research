@@ -97,7 +97,7 @@ data science?"
 
 
 ## Learning barriers for end user programming :
-[paper link] (https://faculty.washington.edu/ajko/papers/Ko2004LearningBarriers.pdf)
+[paper link](https://faculty.washington.edu/ajko/papers/Ko2004LearningBarriers.pdf)
 
 ### TASK:
 - 5 task given, mostly included working with forms, fixing forms, make a clock, design an interface in VB 3.
