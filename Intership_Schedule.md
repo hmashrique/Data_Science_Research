@@ -19,3 +19,8 @@ have with these, or we could talk about adding these on another day
 
 Based on all the above, I think I can schedule out the slots for
 everyone. I'll send a link soon.
+
+## Issues faced by Interns: (8-6-20)
+
+  - Problems in answering conceptual questions.
+  - Unable to understand some blockly to python code.
